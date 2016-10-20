@@ -29,3 +29,5 @@ public class Kata {
 
     }
 }
+
+// -_- コードの戦争 -_- bnoden
