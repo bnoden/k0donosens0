@@ -21,7 +21,7 @@ class Multiply {
     
     public static Double rng()
     {
-        double min = -15.0, max = 15.0;
+        Double min = -15.0, max = 15.0;
         return (min + Math.random() * (max - min + 1));
     }
         
